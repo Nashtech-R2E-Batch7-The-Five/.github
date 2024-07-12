@@ -221,3 +221,20 @@ src/
 ![image.png](https://raw.githubusercontent.com/The-Middle-Nine/Wiki/wikiMaster/.attachments/SD_AssetManagement_CompleteRequestReturn-8644dda1-7ab9-4986-8cb1-3dfb0ddf3455.png)
 
 [Diagrams Explanation](https://github.com/The-Middle-Nine/Wiki/blob/wikiMaster/Documents/Infrastructure/Sequence-Diagram.md)
+
+## 6. State Diagram
+**Asset Scenarios and State Transitions**
+![image.png](https://raw.githubusercontent.com/the-middle-nine/Wiki/wikiMaster/.attachments/Assets_State_Diagram-4ea50479-ebf4-4653-aecb-889dbd4c8a64.png)
+
+**Assignment Scenarios and State Transitions**
+![image.png](https://raw.githubusercontent.com/the-middle-nine/Wiki/wikiMaster/.attachments/Assignments_State_Diagram-4086fd79-c81c-45f1-9fe6-4142140c27a4.png)
+
+**Request Return Scenarios and State Transitions**
+![image.png](https://raw.githubusercontent.com/the-middle-nine/Wiki/wikiMaster/.attachments/RequestReturn_State_Diagram-8e66e0b3-8c7f-4d28-a0ff-a36e70a671cb.png)
+
+[Diagrams Explanation](https://github.com/the-middle-nine/Wiki/blob/wikiMaster/Documents/Infrastructure/State-Diagram.md)
+
+## 7. Usecase Diagram
+![image.png](https://raw.githubusercontent.com/the-middle-nine/Wiki/wikiMaster/.attachments/image-869123a1-91d9-4ec3-b8a7-802909543f5c.png)
+
+[Diagrams Explanation](https://github.com/the-middle-nine/Wiki/blob/wikiMaster/Documents/Infrastructure/Use-case-Diagram.md)
